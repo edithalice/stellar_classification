@@ -31,13 +31,13 @@ These line index columns contain the following pieces of information for around 
 For more details about these approximations, see [here](https://www.sdss.org/dr16/spectro/sspp_lineindexmeas/).
 
 ## Modelling Process
-## Sampling Data
+### Sampling Data
 The data I was working with had 370 features and over 500,000 samples, so to begin with, I took a random subset of the data containing 5% of all samples.  
-## Model Selection
+### Model Selection
 I was working on a cloud computing platform, so I tested a lot of initial models. After comparison, the best performing ones were XGBoost and HistGradientBoosting.
-## Balancing Classes
+### Balancing Classes
 My classes were very imbalanced (just 5 of the 9 classes contain over 96% of samples), so I resampled the data in order to better train the models. I randomly undersampled the 5 largest classes, then randomly oversampled the 4 smallest samples.
-## Parameter Tuning
+### Parameter Tuning
 I used GridCV to tunes model parameters. After tuning, the best performing model was HistGradientBoosting.
 
 ## Main Tools Used
