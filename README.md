@@ -31,7 +31,7 @@ These line index columns contain the following pieces of information for around 
 - side: an approximation of the light intensity at that wavelength using a local fit
 - cont: an approximation of the light intensity at that wavelength derived from a global 7th degree polynomial fit.
 - err: line index error for that particular line band
-- mask: a binary pixel quality indicator (0=good, 1=bad)
+- mask: a binary pixel quality indicator (0=good, 1=bad)  
 For more details about these approximations, see [here](https://www.sdss.org/dr16/spectro/sspp_lineindexmeas/).
 
 ## Modelling Process
