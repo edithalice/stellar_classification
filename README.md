@@ -65,8 +65,8 @@ I used GridCV to tunes model parameters. After tuning, the best performing model
 - [Modelling Processes](https://github.com/edithalice/stellar_classification/blob/master/model_processes.py)
 ### Presentation
 - [Google Slides](https://docs.google.com/presentation/d/18RMsiepjmJ7rpHx3ZY8O1-9iLH5Xa2W5g2Orai8yh6s/edit?usp=sharing)
-- [PDF]()
-- [Powerpoint]()
+- [PDF](https://github.com/edithalice/stellar_classification/blob/master/Classifying%20stellar%20spectra.pdf)
+- [Powerpoint](https://github.com/edithalice/stellar_classification/blob/master/Classifying%20stellar%20spectra.pptx)
 
 ## About the Platform
 This research makes use of the SciServer science platform (www.sciserver.org).
