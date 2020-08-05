@@ -11,7 +11,7 @@
 ## Project Details
 ### Scope
 The goal of this project was to use stellar spectroscopic data to determine MK spectral type, in an effort to automate the process of classifying stars.  
-[More about MK Spectral Types](https://starparty.com/topics/astronomy/stars/the-morgan-keenan-system/)
+[More about MK Spectral Types](https://starparty.com/topics/astronomy/stars/the-morgan-keenan-system/)  
 [More about stellar spectroscopy](http://spiff.rit.edu/classes/phys440/lectures/intro_spectra/intro_spectra.html)
 ### Success Metric
 I wanted to be as accurate as possible for all classes - especially the minority ones. To that end, for much of the process, I used heatmaps of confusion matrices to estimate model success, and used balanced accuracy score when I need a single score metric.
