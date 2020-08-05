@@ -7,6 +7,7 @@
 3. [Modelling Process](#modelling-process)
 4. [Main Tools Used](#main-tools-used)
 5. [Deliverables](#deliverables)
+6. [About the Platform](#about-the-platform)
 
 ## Project Details
 ### Scope
@@ -66,4 +67,10 @@ I used GridCV to tunes model parameters. After tuning, the best performing model
 - [Google Slides](https://docs.google.com/presentation/d/18RMsiepjmJ7rpHx3ZY8O1-9iLH5Xa2W5g2Orai8yh6s/edit?usp=sharing)
 - [PDF]()
 - [Powerpoint]()
+
+## About the Platform
+This research makes use of the SciServer science platform (www.sciserver.org).
+
+SciServer is a collaborative research environment for large-scale data-driven science. It is being developed at, and administered by, the Institute for Data Intensive Engineering and Science at Johns Hopkins University. SciServer is funded by the National Science Foundation through the Data Infrastructure Building Blocks (DIBBs) program and others, as well as by the Alfred P. Sloan Foundation and the Gordon and Betty Moore Foundation.
+
  
