@@ -1,5 +1,6 @@
 # Metis Project 3: Stellar Classification
 ### By Edith Johnston
+#### [Presentation Video](https://www.youtube.com/watch?v=dj3L12W-Do0)
 
 ## Table of Contents
 1. [Project Details](#project-details)
