@@ -41,6 +41,8 @@ I was working on a cloud computing platform, so I tested a lot of initial models
 My classes were very imbalanced (just 5 of the 9 classes contain over 96% of samples), so I resampled the data in order to better train the models. I randomly undersampled the 5 largest classes, then randomly oversampled the 4 smallest samples.
 ### Parameter Tuning
 I used GridCV to tunes model parameters. After tuning, the best performing model was HistGradientBoosting.
+### Neural Net Model
+I also created a neural net model using TensorFlow, mostly just to see how it would compare. I ended up using a sequential model with several dropout layers, which was not only comparable with the gradient boosting models in performance, but required comparatively little training.
 
 ## Main Tools Used
 ### Data Acquisition
@@ -65,6 +67,7 @@ I used GridCV to tunes model parameters. After tuning, the best performing model
 - [Sampling Processes](https://github.com/edithalice/stellar_classification/blob/master/sampling_process.py)
 - [Modelling Processes](https://github.com/edithalice/stellar_classification/blob/master/model_processes.py)
 ### Presentation
+- [Video](https://www.youtube.com/watch?v=dj3L12W-Do0)
 - [Google Slides](https://docs.google.com/presentation/d/18RMsiepjmJ7rpHx3ZY8O1-9iLH5Xa2W5g2Orai8yh6s/edit?usp=sharing)
 - [PDF](https://github.com/edithalice/stellar_classification/blob/master/Classifying%20stellar%20spectra.pdf)
 - [Powerpoint](https://github.com/edithalice/stellar_classification/blob/master/Classifying%20stellar%20spectra.pptx)
