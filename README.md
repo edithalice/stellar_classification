@@ -51,8 +51,10 @@ I also created a neural net model using TensorFlow, mostly just to see how it wo
 - SciDrive
 ### Modelling
 - SciServer
+- Google Colab
 - Jupyter Notebooks
 - scikit learn, imblearn, xgboost
+- tensorflow, keras
 - matplotlib, seaborn
 - pandas, numpy
 
