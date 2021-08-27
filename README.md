@@ -63,6 +63,7 @@ I also created a neural net model using TensorFlow, mostly just to see how it wo
 2. [Model Selection](https://github.com/edithalice/stellar_classification/blob/master/2_Model_Selection.ipynb)
 3. [Balancing Classes](https://github.com/edithalice/stellar_classification/blob/master/3_Balancing_Classes.ipynb)
 4. [Parameter Tuning](https://github.com/edithalice/stellar_classification/blob/master/4_Parameter_Tuning.ipynb)
+5. [Neural Net Model](https://github.com/edithalice/stellar_classification/blob/master/5_Neural_Net_Model.ipynb)
 ### Python Modules
 - [Sampling Processes](https://github.com/edithalice/stellar_classification/blob/master/sampling_process.py)
 - [Modelling Processes](https://github.com/edithalice/stellar_classification/blob/master/model_processes.py)
